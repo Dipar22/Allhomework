@@ -1,0 +1,8 @@
+print("Enter a value for a")
+a=int(input())
+print("Enter a value for b")
+b=int(input())
+print("Enter a value for c")
+c=int(input())
+max_val = max(a,b,c)
+print(max_val)
